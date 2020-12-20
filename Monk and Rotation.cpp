@@ -7,7 +7,7 @@ int main() {
 	// Getting the number of test case
 	cin >> T;
 	// For each test case
-	for (_ = 0; _<T; _++) {
+	while (T--) {
 		// N - Number of elements in Array
 		// K - Number of steps of rotations
 		cin >> N >> K;
